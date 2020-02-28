@@ -417,7 +417,7 @@ xf86rushprotopkgconfigdir = $(datadir)/pkgconfig
 xf86rushprotopkgconfig_DATA = xf86rushproto.pc
 endif
 
-SUBDIRS=specs
+# SUBDIRS=specs
 
 dist_doc_DATA = \
 	compositeproto.txt \
